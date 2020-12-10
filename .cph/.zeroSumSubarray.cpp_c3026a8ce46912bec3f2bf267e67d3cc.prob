@@ -1,0 +1,1 @@
+{"name":"Local: zeroSumSubarray","url":"c:\\Users\\sankar\\Documents\\vs code\\hello world\\zeroSumSubarray.cpp","tests":[{"id":1604312062033,"input":"1\n5\n4 2 -3 1 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sankar\\Documents\\vs code\\hello world\\zeroSumSubarray.cpp","group":"local","local":true}

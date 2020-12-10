@@ -1,0 +1,1 @@
+{"name":"Local: 2ptr(pairsum)","url":"c:\\Users\\sankar\\Documents\\vs code\\hello world\\2ptr(pairsum).cpp","tests":[{"id":1604471055500,"input":"1\n4\n3\n12 15 20 25","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sankar\\Documents\\vs code\\hello world\\2ptr(pairsum).cpp","group":"local","local":true}

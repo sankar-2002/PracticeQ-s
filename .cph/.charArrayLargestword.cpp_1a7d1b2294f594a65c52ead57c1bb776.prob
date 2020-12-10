@@ -1,0 +1,1 @@
+{"name":"Local: charArrayLargestword","url":"c:\\Users\\sankar\\Documents\\vs code\\hello world\\charArrayLargestword.cpp","tests":[{"id":1604913858103,"input":"30\nindia is my country","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sankar\\Documents\\vs code\\hello world\\charArrayLargestword.cpp","group":"local","local":true}

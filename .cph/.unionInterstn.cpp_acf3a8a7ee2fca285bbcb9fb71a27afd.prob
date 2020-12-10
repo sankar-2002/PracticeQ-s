@@ -1,0 +1,1 @@
+{"name":"Local: unionInterstn","url":"c:\\Users\\sankar\\Documents\\vs code\\hello world\\unionInterstn.cpp","tests":[{"id":1603956667073,"input":"1\n3\n2\n1\n2\n3\n4\n5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sankar\\Documents\\vs code\\hello world\\unionInterstn.cpp","group":"local","local":true}

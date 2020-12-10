@@ -1,0 +1,1 @@
+{"name":"Local: MaxProdSubArray","url":"c:\\Users\\sankar\\Documents\\vs code\\hello world\\MaxProdSubArray.cpp","tests":[{"id":1604062377623,"input":"1\n2\n6\n-5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\sankar\\Documents\\vs code\\hello world\\MaxProdSubArray.cpp","group":"local","local":true}
